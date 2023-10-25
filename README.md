@@ -11,5 +11,9 @@ This repo leverages the MITRE ATT&CK Enterprise Techniques data from https://git
 &copy; 2021 The MITRE Corporation. This work is reproduced and distributed with the permission of The MITRE Corporation.
 https://attack.mitre.org/resources/terms-of-use/
 
+## Excel Conversion
+
+See: https://github.com/mitre-attack/mitreattack-python/blob/master/mitreattack/attackToExcel/README.md
+
 ## More coming...
 
